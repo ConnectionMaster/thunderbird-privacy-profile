@@ -3,7 +3,7 @@
 This is a privacy thunderbird profile for everyone.  
 If you have more privacy settings or add-ons, submit a issue or pull request.  
 
-
+### Build with Thunderbird v52.9
 
 ## How to use
 
